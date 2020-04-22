@@ -1,4 +1,3 @@
-# first test ok for ex2
 def f(n):
     if (n==1):
         return 1

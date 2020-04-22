@@ -1,5 +1,3 @@
-# test OK for ex3.py
-
 import numpy as np
 max_n=100
 array=np.zeros([max_n])
